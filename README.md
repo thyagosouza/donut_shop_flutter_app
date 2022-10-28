@@ -1,16 +1,38 @@
-# donut_shop_app
+# Donut Shop - Flutter App - Flutter & Dart
 
-A new Flutter project.
+>Status: Developing ⚠️
 
-## Getting Started
+### This application was developed inspired by the design of the [Roman Just Codes](https://www.youtube.com/channel/UCKsp3r1ERjCpKJtD2n5WtPg).
+<img src="https://romanejaquez.github.io/flutter-codelab-cr2-1/img/687d0f16afa2de4b.png" />
+<img src="https://romanejaquez.github.io/flutter-codelab-cr2-1/img/fccea24fd3b98711.png"/>
 
-This project is a starting point for a Flutter application.
+## Overview
+### What You'll Build in this Workshop:
++ A simple, but well-architected Flutter Application, consisting of: Splash Page, Landing Page, Details Page, Shopping Cart, Favorites Page.
++ Create Flutter User interfaces with ease
++ Common Flutter Layout strategies using just core widgets
++ Creating custom Flutter widgets and achieve widget composition
++ Creating Dart models to mock up app data
++ Import network images
++ Using Material Icon fonts
++ State Management using Provider to decouple Business Logic of Components (BLoC)
++ Animations in Flutter using core Animated Widgets and Tweens
++ Stateful and Stateless Widgets
 
-A few resources to get you started if this is your first Flutter project:
+## Used packages
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Package   | Version
+------------- | ----------
+[**provider**](https://pub.dev/packages/provider) | ^6.0.1
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+<!--- ## Example --->
+ <!--- ![ezgif-4-8308c48d45](https://user-images.githubusercontent.com/54247489/197602942-a65dd667-8851-4717-9cec-0b9b49fdfb07.gif) --->
+
+
+<!--- ## AppBook until now --->
+<!--- ![app_book_current](https://user-images.githubusercontent.com/54247489/197602670-b14309f7-e5d6-4a9e-a79e-f3595a02ab91.gif) --->
+
